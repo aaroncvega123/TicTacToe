@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ TicTacToeClass()
+comment1.params=ox
+comment1.target=boolean\ isWinner(char)
+comment2.params=
+comment2.target=boolean\ isFull()
+comment3.params=
+comment3.target=boolean\ isCat()
+comment4.params=r\ c
+comment4.target=boolean\ isValid(int,\ int)
+comment5.params=
+comment5.target=int\ numTurns()
+comment6.params=
+comment6.target=void\ displayBoard()
+comment7.params=p\ r\ c
+comment7.target=void\ playMove(char,\ int,\ int)
+comment8.params=fileMemory
+comment8.target=char\ loadSave(java.lang.String)
+numComments=9
